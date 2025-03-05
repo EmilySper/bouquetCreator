@@ -70,7 +70,7 @@ bbIcon, salidIcon, fmnIcon, dollarIcon, salalIcon, fernIcon ;
 
 function preload(){
 VaseOne = loadImage('img/VaseOne.png');
-VaseTwo = loadImage('img/Vasetwo.png');
+VaseTwo = loadImage('img/VaseTwo.png');
 poppyF = loadImage('img/poppyF.png');
 tulipF = loadImage('img/tulipF.png');
 cosmosF = loadImage('img/cosmosF.png');
